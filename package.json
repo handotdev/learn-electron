@@ -1,0 +1,22 @@
+{
+  "name": "learn-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanywang2/learn-electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanywang2/learn-electron/issues"
+  },
+  "homepage": "https://github.com/hanywang2/learn-electron#readme",
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
